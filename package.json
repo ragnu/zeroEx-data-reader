@@ -1,0 +1,20 @@
+{
+  "name": "zeroex-data-reader",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ragnu/zeroEx-data-reader.git"
+  },
+  "author": "ragnuresearch@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "0x.js": "^0.22.0",
+    "web3": "^1.0.0-beta.23",
+    "ethers-contracts": "2.1.2"
+  }
+}
